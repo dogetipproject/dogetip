@@ -29,5 +29,5 @@ http://172.105.240.230
 
 
 # Vision
-Inspired by Dogecoin, we are going to create a Blockchain spirit currency for tipping each other and doin the charity events.
-We are planning to use 300,000,000 DTP to develop and market for Dogetip project.
+Inspired by Dogecoin, we are going to create a Blockchain spirit currency for tipping each other and dedicated to the charity events.
+We are planning to use 300,000,000 DTP to developing and marketing.
