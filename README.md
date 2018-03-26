@@ -34,5 +34,5 @@ We are planning to use 300,000,000 DTP to developing and marketing.
 
 
 #Link
-Twitter: https://twitter.com/Dogetip_org
+Twitter: https://twitter.com/Dogetip_org   
 Bitcointalk: https://bitcointalk.org/index.php?topic=2933956.msg30143128#msg30143128
