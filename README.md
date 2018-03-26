@@ -7,22 +7,22 @@
 
 # Features
 
-Total Supply: 118,500,000,000 (Max)
-Lightning fast transaction
-Extremely low transaction fee
-Smart contract integrated
-Zero-knowledge Proof private transaction
+Total Supply: 118,500,000,000 (Max);
+Lightning fast transaction;
+Extremely low transaction fee;
+Smart contract integrated;
+Zero-knowledge Proof private transaction.
 
 # Specification
-Algorithm: Scrypt (AuxPoW)
-Block Time: 60 Seconds
+Algorithm: Scrypt (AuxPoW);
+Block Time: 60 Seconds;
 Difficulty Retarget: Digishield;
-Premined 300,000,000
+Premined 300,000,000;
 
 # Block Reward 
-Block 2,123,456 - 2,199,999: 10,000 DTP 
-Block 2,200,000 - 2,299,999: 80,000 DTP
-Block 2,400,000 + :  reduce 20%  at every 100,000 Block
+Block 2,123,456 - 2,199,999: 10,000 DTP;
+Block 2,200,000 - 2,299,999: 80,000 DTP;
+Block 2,400,000 + :  reduce 20%  at every 100,000 Block;
 
 # Mining Pool
 http://172.105.240.230
