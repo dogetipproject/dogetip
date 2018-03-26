@@ -4,6 +4,9 @@
 
 #### Dogetip (DTP) is a scalable, secure and decentralized cryptocurrency inspired by Dogecoin and hard-forked from it.  Hard-fork will happen at Block height 2,123,456 of Dogecoin.
 
+# Dogetip Core
+Download here:https://github.com/dogetipproject/dogetip/releases/tag/v1.0 
+
 # Features
 
 Total Supply: 118,500,000,000 (Max);  
