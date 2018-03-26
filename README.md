@@ -40,3 +40,6 @@ http://172.105.240.230
 
 
 
+# Vision
+
+We are planning to use 300,000,000 DTP to develop and market for Dogetip project.
