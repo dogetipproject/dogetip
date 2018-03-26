@@ -13,34 +13,22 @@ https://github.com/dogetipproject/dogetip/releases/tag/v1.0
 
 # Features 特色
 
-Total Supply: 118,500,000,000 (Max)；   
-总量1185亿；  
-Lightning fast transaction；   
-闪电般的交易速度;      
-Extremely low transaction fee；   
-极低的交易费用;       
-Smart contract integrated；  
-加入智能合约;       
-Zero-knowledge Proof private transaction；      
-零知识证明隐私交易;    
+Total Supply: 118,500,000,000 (Max)  总量1185亿；  
+Lightning fast transaction  闪电般的交易速度;      
+Extremely low transaction fee  极低的交易费用;        
+Smart contract integrated   加入智能合约;       
+Zero-knowledge Proof private transaction  零知识证明隐私交易;    
 
 # Specification 参数
-Algorithm: Scrypt (AuxPoW);  
-算法：Scrypt (辅助PoW挖矿);    
-Block Time: 60 Seconds;  
-区块时间：60秒;     
-Difficulty Retarget: Digishield;  
-难度调整：Digishield;    
-Premined 300,000,000;  
-预挖：3亿;    
+Algorithm: Scrypt (AuxPoW)  算法：Scrypt (辅助PoW挖矿);    
+Block Time: 60 Seconds  区块时间：60秒;     
+Difficulty Retarget: Digishield  难度调整：Digishield;    
+Premined 300,000,000  预挖：3亿;    
 
 # Block Reward 区块奖励 
-Block 2,123,456 - 2,199,999: 10,000 DTP;
-区块高度2,123,456 - 2,199,999: 10,000 DTP奖励;    
-Block 2,200,000 - 2,299,999: 80,000 DTP;
-区块高度Block 2,200,000 - 2,299,999: 80,000 DTP奖励;    
-Block 2,400,000 + :  reduce 20%  at every 100,000 Block;  
-区块高度Block 2,400,000 + :  每100,000区块高度减产20%;    
+Block 2,123,456 - 2,199,999: 10,000 DTP  区块高度2,123,456 - 2,199,999: 10,000 DTP奖励;    
+Block 2,200,000 - 2,299,999: 80,000 DTP  区块高度Block 2,200,000 - 2,299,999: 80,000 DTP奖励;    
+Block 2,400,000 + :  reduce 20%  at every 100,000 Block  区块高度Block 2,400,000 + :  每100,000区块高度减产20%;    
 
 # Mining Pool 矿池  
 http://172.105.240.230
@@ -49,7 +37,7 @@ http://172.105.240.230
 
 # Vision 愿景
 Inspired by Dogecoin, we are going to create a Blockchain spirit currency for tipping  and donating.
-We are planning to use 300,000,000 DTP to developing and marketing.
+We are planning to use 300,000,000 DTP to developing and marketing.   
 受狗狗币启发，为打赏和捐献创造忠于区块链精神的加密货币.  
 我们将会使用3亿DTP来开发Dogetip和市场推广.  
 
