@@ -1,6 +1,6 @@
 # Dogetip
 ### a social good currency  
-### 为爱而生
+为爱而生
 
 
 #### Dogetip (DTP) is a scalable, secure and decentralized cryptocurrency inspired by Dogecoin and hard-forked from it.  Hard-fork will happen at Block height 2,123,456 of Dogecoin.
