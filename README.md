@@ -12,7 +12,7 @@ Download here客户端下载:
 https://github.com/dogetipproject/dogetip/releases/tag/v1.0 
 
 # Mining Pool 矿池  
-pool.dogetip.org
+http://pool.dogetip.org/
 
 # Features 特色
 
