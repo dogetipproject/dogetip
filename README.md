@@ -14,6 +14,9 @@ https://github.com/dogetipproject/dogetip/releases/tag/v1.0
 # Mining Pool 矿池  
 http://pool.dogetip.org/
 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 # Features 特色
 
 Total Supply: 118,500,000,000 (Max)  总量1185亿；  
