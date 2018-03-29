@@ -11,6 +11,9 @@ Dogetip (DTP)是一个可扩展的、安全的和去中心化的加密货币，�
 Download here客户端下载:   
 https://github.com/dogetipproject/dogetip/releases/tag/v1.0 
 
+# Mining Pool 矿池  
+pool.dogetip.org
+
 # Features 特色
 
 Total Supply: 118,500,000,000 (Max)  总量1185亿；  
@@ -29,9 +32,6 @@ Premined 300,000,000  预挖：3亿;
 Block 2,123,456 - 2,199,999: 10,000 DTP  区块高度2,123,456 - 2,199,999: 10,000 DTP奖励;    
 Block 2,200,000 - 2,299,999: 80,000 DTP  区块高度Block 2,200,000 - 2,299,999: 80,000 DTP奖励;    
 Block 2,400,000 + :  reduce 20%  at every 100,000 Block  区块高度Block 2,400,000 + :  每100,000区块高度减产20%;    
-
-# Mining Pool 矿池  
-http://172.105.240.230
 
 
 
