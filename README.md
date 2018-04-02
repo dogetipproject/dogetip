@@ -23,8 +23,8 @@ https://github.com/dogetipproject/dogetip/releases/tag/v1.0
 Total Supply: 118,500,000,000 (Max)  总量1185亿；  
 Lightning fast transaction  闪电般的交易速度;      
 Extremely low transaction fee  极低的交易费用;        
-Smart contract integrated   加入智能合约;       
-Zero-knowledge Proof private transaction  零知识证明隐私交易;    
+Smart contract integrated(developing...)   加入智能合约(开发中);  
+Zero-knowledge Proof private transaction(developing...)   零知识证明隐私交易(开发中);    
 
 # Specification 参数
 Algorithm: Scrypt (AuxPoW)  算法：Scrypt (辅助PoW挖矿);    
