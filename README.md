@@ -12,8 +12,8 @@ Download here客户端下载:
 https://github.com/dogetipproject/dogetip/releases/tag/v1.0 
 
 # Mining Pool 矿池  
-http://pool.dogetip.org/     
-http://172.105.240.230
+1. http://pool.dogetip.org/     
+2. http://172.105.240.230
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
